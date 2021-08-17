@@ -3,7 +3,7 @@
 ### Arquivos
 
 - As classes `Pessoa.java` e `TestaPessoa.java` foram feitas na primeira aula síncrona;
-- `TestaPessoa.java` é a classe que contém o metodo `main` e o código secreto.
+- `TestaPessoa.java` é a classe que contém o metodo `main(...)` e o código secreto.
 
 
 
